@@ -2,6 +2,8 @@
   "python.pythonPath": "venv/Scripts/python",
   "code-runner.executorMap": {
     "python": "venv/Scripts/python",
-  },   
+  },
+  "jupyter.jupyterServerType": "local",
+  
   
 }

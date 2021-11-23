@@ -1,0 +1,7 @@
+pandas
+openpyxl
+plotly
+SQLAlchemy
+psycopg2
+requests
+seaborn
